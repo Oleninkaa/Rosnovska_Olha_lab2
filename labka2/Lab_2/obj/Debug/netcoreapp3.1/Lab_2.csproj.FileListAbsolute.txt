@@ -1,0 +1,28 @@
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\lela1\Downloads\Melnykova_Kateryna_2-main\Melnykova_Kateryna_2-main\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+D:\2 semestr\прога\labki\labka2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+D:\2 semestr\прога\labki\labka2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+D:\2 semestr\прога\labki\labka2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+D:\2 semestr\прога\labki\labka2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+D:\2 semestr\прога\labki\labka2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+D:\2 semestr\прога\labki\labka2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+D:\2 semestr\прога\labki\labka2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+D:\2 semestr\прога\labki\labka2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 semestr\прога\labki\labka2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+D:\2 semestr\прога\labki\labka2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+D:\2 semestr\прога\labki\labka2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+D:\2 semestr\прога\labki\labka2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+D:\2 semestr\прога\labki\labka2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+D:\2 semestr\прога\labki\labka2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
